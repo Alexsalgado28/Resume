@@ -2,7 +2,7 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Alejandro Salgado | Resume</title>
+  <title>Alejandro Salgado Lopez| Resume</title>
   <style>
     :root {
       --bg: #0b0f14;
